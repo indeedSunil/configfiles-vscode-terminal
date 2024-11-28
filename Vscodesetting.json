@@ -1,0 +1,79 @@
+{
+  "workbench.colorTheme": "Dark Magic",
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.focusAfterRun": "terminal",
+  "terminal.integrated.gpuAcceleration": "auto",
+  "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font Mono'",
+  "editor.fontFamily": "'JetBrains Mono', Consolas, monospace",
+  "editor.fontSize": 19,
+  "editor.lineHeight": 33,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.lineNumbers": "on",
+  "editor.padding": {
+    "top": 10,
+    "bottom": 10
+  },
+  "editor.renderLineHighlight": "none",
+
+  "editor.scrollbar.vertical": "auto",
+  "editor.scrollbar.verticalScrollbarSize": 8, // Adjust for minimal width
+  "editor.scrollbar.hover": true, // Shows scrollbar only on hover
+
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "files.autoSave": "onWindowChange",
+  "files.autoSaveDelay": 1,
+  "files.exclude": {
+    "**/*.exe": true
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.previewFlutterUiGuides": true,
+  "redhat.telemetry.enabled": true,
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.centerLayout": false,
+  "zenMode.hideActivityBar": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.editor.showTabs": "none",
+  "css.customData": [
+    "C:\\Users\\Sunil Lamichhane\\Documents\\customvscodesettings\\custom.css"
+  ],
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "window.menuBarVisibility": "compact",
+  "fonted.font": "JetBrains Mono",
+  "fonted.fontStretch": "2"
+}
